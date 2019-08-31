@@ -1,0 +1,1 @@
+add_lunch_combo beast_X00T-userdebug
